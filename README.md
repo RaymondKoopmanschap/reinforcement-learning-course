@@ -21,6 +21,3 @@ Here an overview of the topics covered in each assigment.
 - Q-learning and SARSA in windy grid world
 - Deep Q-network using pytorch in Cartpole balancing environment
 - Monte Carlo REINFORCE
-
-## Lab 3
-Implemented a curiosity-based exploration with REINFORCE and DQN from [this paper](https://arxiv.org/pdf/1705.05363.pdf)
